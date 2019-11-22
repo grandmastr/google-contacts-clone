@@ -1,0 +1,53 @@
+{
+  "details": [
+    {
+      "name": "Israel Akintunde",
+      "email": "israelakintunde005@gmail.com",
+      "phone": "+2349036350402"
+    },
+    {
+      "name": "Az",
+      "email": "tunde005@gmail.com"
+    },
+    {
+      "name": "Ezekiel Oladejo",
+      "email": "iamwebwiz@gmail.com"
+    },
+    {
+      "name": "James Bond",
+      "email": "bond007@gmail.com",
+      "title": "Software Engineer",
+      "phone": "+2349036350402"
+    },
+    {
+      "name": "John Wick",
+      "email": "johnwick@gmail.com",
+      "title": "Gun Runner",
+      "phone": "+2349036350402"
+    },
+    {
+      "name": "Pablo Escuobar",
+      "email": "pablo@gmail.com",
+      "title": "Drug Lord",
+      "phone": "+2349036350402"
+    },
+    {
+      "name": "Sundar Pichai",
+      "email": "sundar@gmail.com",
+      "title": "Software Engineer",
+      "phone": "+2349036350402"
+    },
+    {
+      "name": "CSS",
+      "email": "css@gmail.com",
+      "title": "Joker",
+      "phone": "+2349036350402"
+    },
+    {
+      "name": "Heith legder",
+      "email": "ledger@gmail.com",
+      "title": "Software Engineer",
+      "phone": "+2349036350402"
+    }
+  ]
+}
